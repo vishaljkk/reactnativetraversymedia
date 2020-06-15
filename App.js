@@ -6,7 +6,7 @@ const App = () => {
   return (
       <View style={styles.container}>
         <Text style={styles.text} Hello World>
-          Hello World
+          Hello World are u there
         </Text>
         <Image source={{uri: 'https://randomuser.me/api/portraits/men/1.jpg'}} style={styles.img}/>
       </View>
